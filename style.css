@@ -15,7 +15,11 @@ body{
     
 }
 .half-with img{ width: 130%;}
+
 .link-button{text-decoration: none;
- 
+background-color: chocolate;
+padding: 10px 20px;
+font-weight: 700;
+color: white;
 }
 
